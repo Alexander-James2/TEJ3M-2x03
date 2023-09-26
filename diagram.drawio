@@ -30,6 +30,9 @@
                 <mxCell id="9" value="220&amp;nbsp;Ω" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
                     <mxGeometry x="513" y="195" width="60" height="30" as="geometry"/>
                 </mxCell>
+                <mxCell id="10" value="Alexander James&lt;br&gt;Sept 2023&lt;br&gt;&lt;br&gt;Single Led&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="25" width="120" height="70" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
